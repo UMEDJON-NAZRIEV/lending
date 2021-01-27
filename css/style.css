@@ -318,7 +318,7 @@ li {
 
 }
 
-@media (max-width: 414px) {
+@media (max-width: 420px) {
     .navigation {
         padding: 0;
     }
